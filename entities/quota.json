@@ -1,0 +1,150 @@
+{
+  "id": "d2378b39-8aad-4cb4-9251-823cdcb714cc",
+  "name": "quota",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "GN",
+      "synonyms": [
+        "GN",
+        "general",
+        "normal"
+      ]
+    },
+    {
+      "value": "LD",
+      "synonyms": [
+        "LD",
+        "Ladies Quota"
+      ]
+    },
+    {
+      "value": "HO",
+      "synonyms": [
+        "HO",
+        "Head quarters",
+        "high official Quota"
+      ]
+    },
+    {
+      "value": "DF",
+      "synonyms": [
+        "DF",
+        "Defence Quota"
+      ]
+    },
+    {
+      "value": "PH",
+      "synonyms": [
+        "PH",
+        "Parliament house Quota"
+      ]
+    },
+    {
+      "value": "FT",
+      "synonyms": [
+        "FT",
+        "Foreign Tourist Quota"
+      ]
+    },
+    {
+      "value": "DP",
+      "synonyms": [
+        "DP",
+        "Duty Pass Quota"
+      ]
+    },
+    {
+      "value": "TQ",
+      "synonyms": [
+        "TQ",
+        "Tatkal Quota",
+        "tatkal"
+      ]
+    },
+    {
+      "value": "PT",
+      "synonyms": [
+        "PT",
+        "Premium Tatkal Quota",
+        "premium tatkal"
+      ]
+    },
+    {
+      "value": "SS",
+      "synonyms": [
+        "SS",
+        "Senior Citizen"
+      ]
+    },
+    {
+      "value": "HP",
+      "synonyms": [
+        "HP",
+        "Physically Handicapped Quota",
+        "Handicapped",
+        "physically Handicapped"
+      ]
+    },
+    {
+      "value": "RE",
+      "synonyms": [
+        "RE",
+        "Railway Employee",
+        "staff",
+        "employee"
+      ]
+    },
+    {
+      "value": "GNRS",
+      "synonyms": [
+        "GNRS",
+        "General Quota Road Side"
+      ]
+    },
+    {
+      "value": "OS",
+      "synonyms": [
+        "OS",
+        "Out Station"
+      ]
+    },
+    {
+      "value": "PQ",
+      "synonyms": [
+        "PQ",
+        "Pooled Quota"
+      ]
+    },
+    {
+      "value": "RAC",
+      "synonyms": [
+        "RAC",
+        "Reservation Against Cancellation"
+      ]
+    },
+    {
+      "value": "LB",
+      "synonyms": [
+        "LB",
+        "Lower birth"
+      ]
+    },
+    {
+      "value": "YU",
+      "synonyms": [
+        "YU",
+        "yuva"
+      ]
+    },
+    {
+      "value": "RS",
+      "synonyms": [
+        "RS",
+        "road side"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

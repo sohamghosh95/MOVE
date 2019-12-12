@@ -1,0 +1,27 @@
+{
+  "id": "30f8d1eb-3fa2-44c0-a8a8-403806344121",
+  "name": "schedule",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "schedule",
+      "synonyms": [
+        "schedule"
+      ]
+    },
+    {
+      "value": "days",
+      "synonyms": [
+        "days"
+      ]
+    },
+    {
+      "value": "Running schedule",
+      "synonyms": [
+        "Running schedule"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

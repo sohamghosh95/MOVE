@@ -1,0 +1,225 @@
+{
+  "userSays": [
+    {
+      "id": "628f55cf-3d57-4926-abfb-ea782db4d557",
+      "data": [
+        {
+          "text": "Find all "
+        },
+        {
+          "text": "the",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " trains that "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "cancelled",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1f4757e4-3ffc-4e10-9272-28916fba9160",
+      "data": [
+        {
+          "text": "Find trains that got "
+        },
+        {
+          "text": "cancelled",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1ed09032-8751-4f35-b4e5-cdd5a5722f3f",
+      "data": [
+        {
+          "text": "Trains that got "
+        },
+        {
+          "text": "cancelled",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " today"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8243e006-d647-4201-b9d7-0b1fb5166526",
+      "data": [
+        {
+          "text": "cancelled",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " trains"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "48c7d884-4f5a-4820-ab05-ad08e9350e51",
+      "data": [
+        {
+          "text": "which trains got "
+        },
+        {
+          "text": "cancelled",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " today?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9eb7f624-e5b9-45b1-84a1-334c64f58e7f",
+      "data": [
+        {
+          "text": "Check "
+        },
+        {
+          "text": "cancelled",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " trains."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5cc091c6-bc13-432a-8a68-5561ebf22626",
+      "data": [
+        {
+          "text": "Trains that got "
+        },
+        {
+          "text": "cancelled",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d2359520-e4e2-48d1-b26c-7cc91f86cbdc",
+      "data": [
+        {
+          "text": "what are the trains that got "
+        },
+        {
+          "text": "cancelled",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4d296ce6-d572-48dc-8314-8ce4e550ecdb",
+      "data": [
+        {
+          "text": "list of "
+        },
+        {
+          "text": "canceled",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " trains"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f015c3bf-39e8-4dbe-84ad-77c7df2e4b1b",
+      "data": [
+        {
+          "text": "Show list of "
+        },
+        {
+          "text": "cancelled",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " trains."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "68cdb526-062d-4f40-9021-627867f23127",
+  "name": "$$ Check cancelled trains.",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "canceled_trains",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Here\u0027s a list of trains that got canceled today..",
+            "Trains that got canceled today are.."
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

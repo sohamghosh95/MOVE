@@ -1,0 +1,192 @@
+{
+  "userSays": [
+    {
+      "id": "c2deace5-9509-4ce2-9065-75e89ea19c9e",
+      "data": [
+        {
+          "text": "give me info abt "
+        },
+        {
+          "text": "irctc",
+          "alias": "topic",
+          "meta": "@topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2158295e-4f69-40c3-bdd2-a0cdda9df628",
+      "data": [
+        {
+          "text": "Can you tell me about "
+        },
+        {
+          "text": "IRCTC",
+          "alias": "topic",
+          "meta": "@topic",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6a2ba1cd-8d3c-4591-b23a-70978cbaaa84",
+      "data": [
+        {
+          "text": "Do you know about "
+        },
+        {
+          "text": "IRCTC",
+          "alias": "topic",
+          "meta": "@topic",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "07cc56a8-05d6-48b6-979e-d66ea8e8e371",
+      "data": [
+        {
+          "text": "tell me something about "
+        },
+        {
+          "text": "IRCTC",
+          "alias": "topic",
+          "meta": "@topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3fe8c572-2ca9-4f52-8449-cd49d56f5e44",
+      "data": [
+        {
+          "text": "what is "
+        },
+        {
+          "text": "irctc",
+          "alias": "topic",
+          "meta": "@topic",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b5ddd581-b403-484e-a46b-67905e41a208",
+      "data": [
+        {
+          "text": "information on "
+        },
+        {
+          "text": "irctc",
+          "alias": "topic",
+          "meta": "@topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9e1131e0-a533-4445-a4e5-72a9d53edbdc",
+      "data": [
+        {
+          "text": "about "
+        },
+        {
+          "text": "indian railways",
+          "alias": "topic",
+          "meta": "@topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "71de0a0d-7eb3-43b1-8896-0025f1f3f526",
+      "data": [
+        {
+          "text": "what is "
+        },
+        {
+          "text": "irctc",
+          "alias": "topic",
+          "meta": "@topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "23c94f0f-9ecc-4bf2-915f-d63c2ca4b65e",
+      "data": [
+        {
+          "text": "find about "
+        },
+        {
+          "text": "irctc",
+          "alias": "topic",
+          "meta": "@topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "eaef5e9b-f3a8-40d5-bd87-07d77a92045c",
+  "name": "@@ About",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "required": true,
+          "dataType": "@topic",
+          "name": "topic",
+          "value": "$topic"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Here\u0027s what I found",
+            "Let me check that",
+            "Ok, here\u0027s what I found",
+            "Ok, check it out",
+            "All right, here\u0027s what I found"
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

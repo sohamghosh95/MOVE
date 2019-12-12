@@ -1,0 +1,46 @@
+{
+  "userSays": [
+    {
+      "id": "d9d01a5c-011c-415c-b48f-553e2fd42c92",
+      "data": [
+        {
+          "text": "irctc link"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c8e2b8fb-dcdf-4e30-a258-a3e4e6ab2dec",
+      "data": [
+        {
+          "text": "irctc website"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "6240a835-c400-4ac2-9e0e-f056ac57d322",
+  "name": "%IRCTC Website",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "IRCTC Website : www.irctc.co.in OR  www.irctc.com"
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

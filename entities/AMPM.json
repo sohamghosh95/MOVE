@@ -1,0 +1,21 @@
+{
+  "id": "0b8465fe-a8a2-46ef-9ed8-4902a1c258e5",
+  "name": "AMPM",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "am",
+      "synonyms": [
+        "am"
+      ]
+    },
+    {
+      "value": "pm",
+      "synonyms": [
+        "pm"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

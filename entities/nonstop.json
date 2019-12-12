@@ -1,0 +1,23 @@
+{
+  "id": "10fd2f43-7808-4471-afdc-6419e5b58ea5",
+  "name": "nonstop",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "true",
+      "synonyms": [
+        "nonstop",
+        "non stop",
+        "non-stop",
+        "without stops",
+        "without stop",
+        "without stoping",
+        "direct",
+        "without layover",
+        "no layover"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

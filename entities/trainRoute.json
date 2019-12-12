@@ -1,0 +1,28 @@
+{
+  "id": "2fdc5a38-94de-449b-bdbf-6a2231687cfd",
+  "name": "trainRoute",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "train route",
+      "synonyms": [
+        "train route",
+        "route"
+      ]
+    },
+    {
+      "value": "schedule",
+      "synonyms": [
+        "schedule"
+      ]
+    },
+    {
+      "value": "time table",
+      "synonyms": [
+        "time table"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

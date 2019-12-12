@@ -1,0 +1,913 @@
+{
+  "userSays": [
+    {
+      "id": "0d90a0ef-d958-4733-9fab-3d858c3fdad3",
+      "data": [
+        {
+          "text": "find all "
+        },
+        {
+          "text": "shatabdi",
+          "alias": "trainType",
+          "meta": "@trainType",
+          "userDefined": true
+        },
+        {
+          "text": " express from "
+        },
+        {
+          "text": "delhi",
+          "alias": "source",
+          "meta": "@source",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "chandigarh",
+          "alias": "destination",
+          "meta": "@destination",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b91f5db3-7bcc-4443-af1d-ae9cb463944c",
+      "data": [
+        {
+          "text": "find "
+        },
+        {
+          "text": "shatabdi",
+          "alias": "trainType",
+          "meta": "@trainType",
+          "userDefined": true
+        },
+        {
+          "text": " express from "
+        },
+        {
+          "text": "delhi",
+          "alias": "source",
+          "meta": "@source",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "chandigarh",
+          "alias": "destination",
+          "meta": "@destination",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "84c8a3e1-4c79-422f-8541-88a4eaf0f7cb",
+      "data": [
+        {
+          "text": "Patna",
+          "alias": "source",
+          "meta": "@source",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "Delhi",
+          "alias": "destination",
+          "meta": "@destination",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Garib Rath Exp",
+          "alias": "trainType",
+          "meta": "@trainType",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c0bf260c-3ea1-4d64-8afc-e1cf5bd19bcd",
+      "data": [
+        {
+          "text": "Shatabdi",
+          "alias": "trainType",
+          "meta": "@trainType",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "DELHI",
+          "alias": "source",
+          "meta": "@source",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "CHANDIGARH",
+          "alias": "destination",
+          "meta": "@destination",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "81d27e74-fc2d-4cc5-b543-183cdffe5765",
+      "data": [
+        {
+          "text": "Shatabdi Exp",
+          "alias": "trainType",
+          "meta": "@trainType",
+          "userDefined": true
+        },
+        {
+          "text": " from "
+        },
+        {
+          "text": "delhi",
+          "alias": "source",
+          "meta": "@source",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "chandigarh",
+          "alias": "destination",
+          "meta": "@destination",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b6f79316-e830-4cd6-aba0-2ccb21c07662",
+      "data": [
+        {
+          "text": "Delhi",
+          "alias": "source",
+          "meta": "@source",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "Chandigarh",
+          "alias": "destination",
+          "meta": "@destination",
+          "userDefined": true
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "Rajdhani express",
+          "alias": "trainType",
+          "meta": "@trainType",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d625e306-48b2-4ed5-891a-b46efb57eb90",
+      "data": [
+        {
+          "text": "rajdhani express",
+          "alias": "trainType",
+          "meta": "@trainType",
+          "userDefined": true
+        },
+        {
+          "text": " from "
+        },
+        {
+          "text": "delhi",
+          "alias": "source",
+          "meta": "@source",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "mumbai",
+          "alias": "destination",
+          "meta": "@destination",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2fb597b8-c6e3-4c78-b300-006540ea36c5",
+      "data": [
+        {
+          "text": "trains from "
+        },
+        {
+          "text": "delhi",
+          "alias": "source",
+          "meta": "@source",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "mumbai",
+          "alias": "destination",
+          "meta": "@destination",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6593427c-45bc-4bac-889d-6340e6ffd05b",
+      "data": [
+        {
+          "text": "gatiman",
+          "alias": "trainType",
+          "meta": "@trainType",
+          "userDefined": true
+        },
+        {
+          "text": " express between "
+        },
+        {
+          "text": "delhi",
+          "alias": "source",
+          "meta": "@source",
+          "userDefined": true
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "agra",
+          "alias": "destination",
+          "meta": "@destination",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "17beb610-a65c-4be5-a4b6-0c735619b3e2",
+      "data": [
+        {
+          "text": "EXPRESS",
+          "alias": "trainType",
+          "meta": "@trainType",
+          "userDefined": true
+        },
+        {
+          "text": " TRAINS FROM "
+        },
+        {
+          "text": "DELHI",
+          "alias": "source",
+          "meta": "@source",
+          "userDefined": true
+        },
+        {
+          "text": " TO "
+        },
+        {
+          "text": "AGRA",
+          "alias": "destination",
+          "meta": "@destination",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "537f038d-91c7-488b-97bc-b3ff33f63526",
+      "data": [
+        {
+          "text": "check for "
+        },
+        {
+          "text": "superfast",
+          "alias": "trainType",
+          "meta": "@trainType",
+          "userDefined": true
+        },
+        {
+          "text": " trains from "
+        },
+        {
+          "text": "delhi",
+          "alias": "source",
+          "meta": "@source",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "patna",
+          "alias": "destination",
+          "meta": "@destination",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0d041ef9-1b07-4ee8-9b3f-12cb53f3ff66",
+      "data": [
+        {
+          "text": "check for "
+        },
+        {
+          "text": "duronto express",
+          "alias": "trainType",
+          "meta": "@trainType",
+          "userDefined": true
+        },
+        {
+          "text": " from "
+        },
+        {
+          "text": "sealdah",
+          "alias": "source",
+          "meta": "@source",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "delhi",
+          "alias": "destination",
+          "meta": "@destination",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c8c06e97-6eb0-4d7f-8883-a6a70bf4246c",
+      "data": [
+        {
+          "text": "Find all "
+        },
+        {
+          "text": "super fast",
+          "alias": "trainType",
+          "meta": "@trainType",
+          "userDefined": true
+        },
+        {
+          "text": " trains from "
+        },
+        {
+          "text": "HWH",
+          "alias": "source",
+          "meta": "@source",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "NDLS",
+          "alias": "destination",
+          "meta": "@destination",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bbe94ad2-6cc4-4e4e-8a45-45779c5e78c0",
+      "data": [
+        {
+          "text": "Rajdhani",
+          "alias": "trainType",
+          "meta": "@trainType",
+          "userDefined": true
+        },
+        {
+          "text": " express from "
+        },
+        {
+          "text": "Delhi",
+          "alias": "source",
+          "meta": "@source",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "Patna",
+          "alias": "destination",
+          "meta": "@destination",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "73f9d952-5eda-45f1-9302-827a6612b353",
+      "data": [
+        {
+          "text": "find me trains from "
+        },
+        {
+          "text": "Delhi",
+          "alias": "source",
+          "meta": "@source",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "ajmer",
+          "alias": "destination",
+          "meta": "@destination",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "86ed2255-d74d-4741-9697-fd3e0003490c",
+      "data": [
+        {
+          "text": "FInd trains"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cdb5b802-b9a1-42fb-babc-6c867807d846",
+      "data": [
+        {
+          "text": "trains between "
+        },
+        {
+          "text": "NDLS",
+          "alias": "source",
+          "meta": "@source",
+          "userDefined": true
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "HWH",
+          "alias": "destination",
+          "meta": "@destination",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b4421168-f4dd-402d-90b0-0376841e67d4",
+      "data": [
+        {
+          "text": "Find trains to "
+        },
+        {
+          "text": "new delhi",
+          "alias": "destination",
+          "meta": "@destination",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5273690c-23af-43fe-b30e-a743c6d6db76",
+      "data": [
+        {
+          "text": "I want to go to "
+        },
+        {
+          "text": "NDLS",
+          "alias": "destination",
+          "meta": "@destination",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "304a8cf5-0725-4fd8-8572-ab1965fb0099",
+      "data": [
+        {
+          "text": "trains for "
+        },
+        {
+          "text": "patna",
+          "alias": "destination",
+          "meta": "@destination",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "84bb1d58-cf72-4bb9-aa17-c94c82bfde4f",
+      "data": [
+        {
+          "text": "Find trains to"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "af02ddb4-0eb3-47c3-b02c-e1abca0f616c",
+      "data": [
+        {
+          "text": "find trains between stations"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a8a51f3f-4bd7-4627-b8e4-76a2523f1fbb",
+      "data": [
+        {
+          "text": "trains between stations"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fbc1e15c-dcb1-4d8e-8a00-0b1ddf7b20a6",
+      "data": [
+        {
+          "text": "Chandigarh",
+          "alias": "source",
+          "meta": "@source",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "ajmer",
+          "alias": "destination",
+          "meta": "@destination",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "aeb5bc1b-8284-46f2-b227-b8a083e039e4",
+      "data": [
+        {
+          "text": "Trains for "
+        },
+        {
+          "text": "HWH",
+          "alias": "destination",
+          "meta": "@destination",
+          "userDefined": true
+        },
+        {
+          "text": " from "
+        },
+        {
+          "text": "NDLS",
+          "alias": "source",
+          "meta": "@source",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a21c663b-1043-4414-843e-6cba39e52ae7",
+      "data": [
+        {
+          "text": "find trains between "
+        },
+        {
+          "text": "ndls",
+          "alias": "source",
+          "meta": "@source",
+          "userDefined": true
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "pnbe",
+          "alias": "destination",
+          "meta": "@destination",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4af3f25e-c7ed-4e2f-bbbd-33649e10241a",
+      "data": [
+        {
+          "text": "find trains from "
+        },
+        {
+          "text": "Delhi",
+          "alias": "source",
+          "meta": "@source",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "Patna",
+          "alias": "destination",
+          "meta": "@destination",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "69a7f5e3-b390-4b0b-85ee-0e823669b92a",
+      "data": [
+        {
+          "text": "how can I go from "
+        },
+        {
+          "text": "PNBE",
+          "alias": "source",
+          "meta": "@source",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "NDLS",
+          "alias": "destination",
+          "meta": "@destination",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2b43bfcb-bd8a-42f7-aa3d-0f4dbedd4e7f",
+      "data": [
+        {
+          "text": "I want to go from "
+        },
+        {
+          "text": "Patna",
+          "alias": "source",
+          "meta": "@source",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "new delhi.",
+          "alias": "destination",
+          "meta": "@destination",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b553b8e4-4886-4b2c-8d55-f38b132a0c70",
+      "data": [
+        {
+          "text": "trains b/w "
+        },
+        {
+          "text": "PNBE",
+          "alias": "source",
+          "meta": "@source",
+          "userDefined": true
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "NDLS",
+          "alias": "destination",
+          "meta": "@destination",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "879d5930-7687-4ab2-8d1e-50a76aaf08f2",
+      "data": [
+        {
+          "text": "find trains from "
+        },
+        {
+          "text": "ndls",
+          "alias": "source",
+          "meta": "@source",
+          "userDefined": true
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "PNBE",
+          "alias": "destination",
+          "meta": "@destination",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5c09ef6e-21ca-4423-9c31-f41c0f4155bb",
+      "data": [
+        {
+          "text": "list of all the trains running between "
+        },
+        {
+          "text": "new delhi",
+          "alias": "source",
+          "meta": "@source",
+          "userDefined": true
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "patna jn",
+          "alias": "destination",
+          "meta": "@destination",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8d599a98-02f2-495b-a169-2fa0e0feeaff",
+      "data": [
+        {
+          "text": "trains from "
+        },
+        {
+          "text": "NDLS",
+          "alias": "source",
+          "meta": "@source",
+          "userDefined": true
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "PNBE",
+          "alias": "destination",
+          "meta": "@destination",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0cb53d78-03a0-4c88-8dfe-50e0025cce4f",
+      "data": [
+        {
+          "text": "show me trains b/w "
+        },
+        {
+          "text": "New Delhi",
+          "alias": "source",
+          "meta": "@source",
+          "userDefined": true
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "Patna Jn",
+          "alias": "destination",
+          "meta": "@destination",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "c39e61ab-c0f5-4e0f-a758-078fa6319251",
+  "name": "$$ Trains b/w stations",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "getTrainBetweenStations",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "required": true,
+          "dataType": "@source",
+          "name": "source",
+          "value": "$source",
+          "prompts": [
+            "What is the source station?",
+            "From where do you want to begin your journey?",
+            "What is your source station?"
+          ],
+          "isList": false
+        },
+        {
+          "required": true,
+          "dataType": "@destination",
+          "name": "destination",
+          "value": "$destination",
+          "prompts": [
+            "What\u0027s the destination?",
+            "what is the destination station?"
+          ],
+          "isList": false
+        },
+        {
+          "dataType": "@trainType",
+          "name": "trainType",
+          "value": "$trainType",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "Let me have a look 🙂"
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

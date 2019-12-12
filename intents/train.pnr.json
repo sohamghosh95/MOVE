@@ -1,0 +1,341 @@
+{
+  "userSays": [
+    {
+      "id": "1873af34-32d1-4a5c-ba56-70bf15e6ce8c",
+      "data": [
+        {
+          "text": "2708954401",
+          "alias": "pnr_no",
+          "meta": "@pnr_no",
+          "userDefined": true
+        },
+        {
+          "text": " Find info"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "072522bd-2824-4b72-a7f1-2369c1ee31a4",
+      "data": [
+        {
+          "text": "find info of my "
+        },
+        {
+          "text": "pnr",
+          "alias": "pnr_status",
+          "meta": "@pnr_status",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c6ca4fd0-f966-426b-8f49-166517d64cf4",
+      "data": [
+        {
+          "text": "Get "
+        },
+        {
+          "text": "PNR",
+          "alias": "pnr_status",
+          "meta": "@pnr_status",
+          "userDefined": true
+        },
+        {
+          "text": " status"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a7bb3b62-660d-4565-aada-3afcdb537785",
+      "data": [
+        {
+          "text": "pnr",
+          "alias": "pnr_status",
+          "meta": "@pnr_status",
+          "userDefined": false
+        },
+        {
+          "text": " enquiry"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e59fdc96-c81d-4f0a-a9dc-e7e6eb8d366c",
+      "data": [
+        {
+          "text": "I "
+        },
+        {
+          "text": "have",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " a train to catch "
+        },
+        {
+          "text": "today",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": "."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5addd65d-f9dc-4cab-9409-8678f821509f",
+      "data": [
+        {
+          "text": "2708954401",
+          "alias": "pnr_no",
+          "meta": "@pnr_no",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "pnr status",
+          "alias": "pnr_status",
+          "meta": "@pnr_status",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c27f92c8-f50a-4497-99a5-37bad2918d3d",
+      "data": [
+        {
+          "text": "check the status of my "
+        },
+        {
+          "text": "PNR",
+          "alias": "pnr_status",
+          "meta": "@pnr_status",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "17e39cd4-6bea-4244-9b9a-4dfe1c934e78",
+      "data": [
+        {
+          "text": "2708954407",
+          "alias": "pnr_no",
+          "meta": "@pnr_no",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d054e290-2040-41ca-b32d-fd1096fdb1ba",
+      "data": [
+        {
+          "text": "check status "
+        },
+        {
+          "text": "2708954407",
+          "alias": "pnr_no",
+          "meta": "@pnr_no",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e7ad07e2-a0bf-4e00-9c8c-008083bc15dc",
+      "data": [
+        {
+          "text": "I have a train booking"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d26380dd-f45e-4ec6-8c92-8394127fcfa7",
+      "data": [
+        {
+          "text": "I have a train today."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c840c181-6ffd-43fb-8568-4b77199c3d17",
+      "data": [
+        {
+          "text": "check "
+        },
+        {
+          "text": "pnr",
+          "alias": "pnr_status",
+          "meta": "@pnr_status",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b4cfdeb0-de66-49f4-be82-f47b1c3c88c7",
+      "data": [
+        {
+          "text": "check my "
+        },
+        {
+          "text": "pnr status.",
+          "alias": "pnr_status",
+          "meta": "@pnr_status",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6ceed66d-fa63-4cbd-9eac-599d5b7911ce",
+      "data": [
+        {
+          "text": "check "
+        },
+        {
+          "text": "pnr",
+          "alias": "pnr_status",
+          "meta": "@pnr_status",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "2708954407",
+          "alias": "pnr_no",
+          "meta": "@pnr_no",
+          "userDefined": true
+        },
+        {
+          "text": "."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e4cdb3da-10ca-4565-9aed-abf3041171b9",
+      "data": [
+        {
+          "text": "check "
+        },
+        {
+          "text": "status",
+          "alias": "pnr_status",
+          "meta": "@pnr_status",
+          "userDefined": true
+        },
+        {
+          "text": " of "
+        },
+        {
+          "text": "2708954407",
+          "alias": "pnr_no",
+          "meta": "@pnr_no",
+          "userDefined": true
+        },
+        {
+          "text": "."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a1699f75-eaf9-47ed-96ee-efd88c557715",
+      "data": [
+        {
+          "text": "check my "
+        },
+        {
+          "text": "pnr status",
+          "alias": "pnr_status",
+          "meta": "@pnr_status",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "2708954407",
+          "alias": "pnr_no",
+          "meta": "@pnr_no",
+          "userDefined": true
+        },
+        {
+          "text": "."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "c78583bb-484a-45cf-a5d9-46cb12472643",
+  "name": "$$PNR status",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "pnr_status",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "required": true,
+          "dataType": "@pnr_no",
+          "name": "pnr_no",
+          "value": "$pnr_no",
+          "prompts": [
+            "What\u0027s your PNR No ?",
+            "What is the PNR No?"
+          ],
+          "isList": false
+        },
+        {
+          "dataType": "@pnr_status",
+          "name": "pnr_status",
+          "value": "$pnr_status",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "Here you go."
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

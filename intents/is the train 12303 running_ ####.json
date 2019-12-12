@@ -1,0 +1,119 @@
+{
+  "userSays": [
+    {
+      "id": "372feb3c-f6ca-4f65-afb7-4f906f8c995f",
+      "data": [
+        {
+          "text": "is my train running?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2142e6b5-2415-4065-8300-e24d180daa2e",
+      "data": [
+        {
+          "text": "Is my train "
+        },
+        {
+          "text": "cancelled",
+          "alias": "canceled_trains",
+          "meta": "@canceled_trains",
+          "userDefined": false
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d86def05-094c-46e5-a8ab-eb461923cd39",
+      "data": [
+        {
+          "text": "is the train "
+        },
+        {
+          "text": "12303",
+          "alias": "trainNo",
+          "meta": "@trainNo",
+          "userDefined": true
+        },
+        {
+          "text": " running?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c6c40fe9-7f45-4a94-860f-ce6a226bcd6e",
+      "data": [
+        {
+          "text": "Is "
+        },
+        {
+          "text": "12011",
+          "alias": "trainNo",
+          "meta": "@trainNo",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "cancelled",
+          "alias": "canceled_trains",
+          "meta": "@canceled_trains",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "3f11fff9-ee68-4f7a-b6f5-53572a4046ae",
+  "name": "is the train 12303 running? ####",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "getTrainStatus",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "dataType": "@canceled_trains",
+          "name": "canceled_trains",
+          "value": "$canceled_trains"
+        },
+        {
+          "required": true,
+          "dataType": "@trainNo",
+          "name": "trainNo",
+          "value": "$trainNo",
+          "prompts": [
+            "I am missing the Train No.😕"
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "Let me check on that."
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

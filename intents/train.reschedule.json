@@ -1,0 +1,212 @@
+{
+  "userSays": [
+    {
+      "id": "f32a8b3e-923c-471a-ba7c-43d30af36339",
+      "data": [
+        {
+          "text": "list of all "
+        },
+        {
+          "text": "the",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "rescheduled",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " trains for "
+        },
+        {
+          "text": "today",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fac44afa-075e-4290-98c8-f40675cf1aaf",
+      "data": [
+        {
+          "text": "today\u0027s",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "rescheduled",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " trains"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8bf4f778-f0a9-43ef-b424-9a50ac54d52b",
+      "data": [
+        {
+          "text": "find all trains that got "
+        },
+        {
+          "text": "rescheduled",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "716a002c-1f22-4b65-8bc8-1430fee9d227",
+      "data": [
+        {
+          "text": "List of "
+        },
+        {
+          "text": "rescheduled",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " trains for "
+        },
+        {
+          "text": "today",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": "."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c0dbb4bb-7703-4223-848b-9f354bd4b385",
+      "data": [
+        {
+          "text": "find all "
+        },
+        {
+          "text": "rescheduled",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " trains."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1823582e-93b3-44a6-8b1d-ea7950f04b1c",
+      "data": [
+        {
+          "text": "which trains got "
+        },
+        {
+          "text": "rescheduled",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " for today?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "65c09fa4-1bcf-439f-9804-f32c449ed5c3",
+      "data": [
+        {
+          "text": "rescheduled",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " trains"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "19aa3c5b-1c76-4cb3-9a4b-94340f9e7edb",
+      "data": [
+        {
+          "text": "list of all "
+        },
+        {
+          "text": "rescheduled",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " trains"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "0622020c-54d6-4b3d-bb1f-2d4a1ce4e175",
+  "name": "$$ Rescheduled Trains",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "required": false,
+          "dataType": "@rescheduled",
+          "name": "rescheduled",
+          "value": "$rescheduled",
+          "isList": false
+        },
+        {
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "Rescheduled Trains are.."
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

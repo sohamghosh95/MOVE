@@ -1,0 +1,34 @@
+{
+  "id": "8912575c-6270-4d31-a96a-38b31c8edab8",
+  "name": "flight_destination",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "CCU",
+      "synonyms": [
+        "CCU",
+        "kolkata",
+        "calcutta",
+        "netaji subhash international airport"
+      ]
+    },
+    {
+      "value": "DEL",
+      "synonyms": [
+        "DEL",
+        "delhi",
+        "new delhi"
+      ]
+    },
+    {
+      "value": "BOM",
+      "synonyms": [
+        "BOM",
+        "MUMBAI",
+        "bombay"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

@@ -1,0 +1,69 @@
+{
+  "userSays": [
+    {
+      "id": "3ba84d1e-a09d-4fb6-91cc-640206b976e4",
+      "data": [
+        {
+          "text": "find available seats"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4fce562e-8d3a-41df-a96d-1a5b172d13a1",
+      "data": [
+        {
+          "text": "Find seat avalablity"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "67ff1bf6-8c8b-46e7-a2d0-4be49ee23889",
+      "data": [
+        {
+          "text": "Are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " there "
+        },
+        {
+          "text": "any",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " seats available?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "6149dfa9-b6e5-4466-91bf-852ee60c5649",
+  "name": "$$SeatAvailablilityTrain",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

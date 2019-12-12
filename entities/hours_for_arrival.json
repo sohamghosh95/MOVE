@@ -1,0 +1,161 @@
+{
+  "id": "e041b335-ae66-45b8-98fb-5dc4f7ff137f",
+  "name": "hours_for_arrival",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "1",
+      "synonyms": [
+        "1",
+        "next hour",
+        "one"
+      ]
+    },
+    {
+      "value": "2",
+      "synonyms": [
+        "2",
+        "next two hours",
+        "two"
+      ]
+    },
+    {
+      "value": "3",
+      "synonyms": [
+        "3",
+        "next three hours",
+        "three"
+      ]
+    },
+    {
+      "value": "4",
+      "synonyms": [
+        "4",
+        "next four hours",
+        "four"
+      ]
+    },
+    {
+      "value": "5",
+      "synonyms": [
+        "5"
+      ]
+    },
+    {
+      "value": "6",
+      "synonyms": [
+        "6"
+      ]
+    },
+    {
+      "value": "7",
+      "synonyms": [
+        "7"
+      ]
+    },
+    {
+      "value": "8",
+      "synonyms": [
+        "8"
+      ]
+    },
+    {
+      "value": "9",
+      "synonyms": [
+        "9"
+      ]
+    },
+    {
+      "value": "10",
+      "synonyms": [
+        "10"
+      ]
+    },
+    {
+      "value": "11",
+      "synonyms": [
+        "11"
+      ]
+    },
+    {
+      "value": "12",
+      "synonyms": [
+        "12"
+      ]
+    },
+    {
+      "value": "13",
+      "synonyms": [
+        "13"
+      ]
+    },
+    {
+      "value": "14",
+      "synonyms": [
+        "14"
+      ]
+    },
+    {
+      "value": "15",
+      "synonyms": [
+        "15"
+      ]
+    },
+    {
+      "value": "16",
+      "synonyms": [
+        "16"
+      ]
+    },
+    {
+      "value": "17",
+      "synonyms": [
+        "17"
+      ]
+    },
+    {
+      "value": "18",
+      "synonyms": [
+        "18"
+      ]
+    },
+    {
+      "value": "19",
+      "synonyms": [
+        "19"
+      ]
+    },
+    {
+      "value": "20",
+      "synonyms": [
+        "20"
+      ]
+    },
+    {
+      "value": "21",
+      "synonyms": [
+        "21"
+      ]
+    },
+    {
+      "value": "22",
+      "synonyms": [
+        "22"
+      ]
+    },
+    {
+      "value": "23",
+      "synonyms": [
+        "23"
+      ]
+    },
+    {
+      "value": "24",
+      "synonyms": [
+        "24"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

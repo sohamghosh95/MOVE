@@ -1,0 +1,56 @@
+{
+  "userSays": [
+    {
+      "id": "8655d231-aa92-4a76-b105-be172698b8da",
+      "data": [
+        {
+          "text": "helpful websites"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1982b5e4-c130-4ec0-ac77-5b00f7e160a7",
+      "data": [
+        {
+          "text": "list of important websites"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6c55425a-f834-4951-956e-9b0d7ca4f668",
+      "data": [
+        {
+          "text": "Important links"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "da89fd21-a20b-4ced-92a7-8b23b9770307",
+  "name": "%Important Links",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "Here you go"
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

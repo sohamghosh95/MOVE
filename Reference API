@@ -1,0 +1,48 @@
+Live Train Status
+http://api.railwayapi.com/live/train/<train number>/doj/<yyyymmdd>/apikey/<apikey>/
+
+PNR Status
+http://api.railwayapi.com/pnr_status/pnr/<pnr no>/apikey/<apikey>/
+
+Train Route
+http://api.railwayapi.com/route/train/<train number>/apikey/<apikey>/
+
+Seat Availability
+http://api.railwayapi.com/check_seat/train/<train number>/source/<source code>/dest/<dest code>/date/<doj in DD-MM-YYYY>/class/<class code>/quota/<quota code>/apikey/<apikey>/
+
+Trains Between Stations
+http://api.railwayapi.com/between/source/<station code>/dest/<station code>/date/dd-mm/apikey/<apikey>/
+
+Train Name/Number
+http://api.railwayapi.com/name_number/train/<name or number>/apikey/<apikey>/
+
+Train Fare Enquiry
+http://api.railwayapi.com/fare/train/<train number>/source/<source station code>/dest/<dest station code>/age/<age>/quota/<quota>/doj/<doj>/apikey/<apikey>/
+
+Train Arrivals at Station
+http://api.railwayapi.com/arrivals/station/<station code>/hours/<hours to search within>/apikey/<apikey>/
+
+Cancelled Trains
+http://api.railwayapi.com/cancelled/date/<date in dd-mm-yyyy>/apikey/<apikey>/
+
+Rescheduled Trains
+http://api.railwayapi.com/rescheduled/date/<date in dd-mm-yyyy>/apikey/<apikey>/
+
+Station Name to Code
+http://api.railwayapi.com/name_to_code/station/<station name>/apikey/<apikey>/
+
+Station Code to Name
+http://api.railwayapi.com/code_to_name/code/<station code>/apikey/<apikey>/
+
+Station Autocomplete Suggest
+http://api.railwayapi.com/suggest_station/name/<partial station name>/apikey/<apikey>/
+
+Train Autocomplete Suggest
+http://api.railwayapi.com/suggest_train/trains/<partial train name or number>/apikey/<apikey>/
+
+Response Codes
+200	OK. Your request was successfully processed.
+204	Empty response. Not able to fetch required data.
+401	Authentication Error. You passed an unknown API Key.
+403	Quota for the day exhausted. Applicable only for FREE users.
+405	Account Expired. Renewal was not completed on time.

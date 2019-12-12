@@ -1,0 +1,52 @@
+{
+  "id": "7e53fd31-582b-4cdc-b517-6863b15feb4a",
+  "name": "live_train_status",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "status",
+      "synonyms": [
+        "status",
+        "position"
+      ]
+    },
+    {
+      "value": "current position",
+      "synonyms": [
+        "current position"
+      ]
+    },
+    {
+      "value": "current status",
+      "synonyms": [
+        "current status"
+      ]
+    },
+    {
+      "value": "spot",
+      "synonyms": [
+        "spot"
+      ]
+    },
+    {
+      "value": "pos",
+      "synonyms": [
+        "pos"
+      ]
+    },
+    {
+      "value": "live status",
+      "synonyms": [
+        "live status"
+      ]
+    },
+    {
+      "value": "Live Train status",
+      "synonyms": [
+        "Live Train status"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

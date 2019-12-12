@@ -1,0 +1,87 @@
+{
+  "userSays": [
+    {
+      "id": "6b6e0e69-9835-444e-9e08-1a2cf00d991f",
+      "data": [
+        {
+          "text": "greetings"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "be96561a-9671-4e75-8f33-d3150192a302",
+      "data": [
+        {
+          "text": "ola"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c8f1ed4f-d3cb-40fc-baca-f8107557d64c",
+      "data": [
+        {
+          "text": "hey there"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d0ff8a19-bac1-42e9-a766-9a5414cc9372",
+      "data": [
+        {
+          "text": "hi"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "44679a8a-c4a8-4822-939a-8e3bac3aa077",
+      "data": [
+        {
+          "text": "hello"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "5a2b53ad-bfba-476f-bd53-3e0c6cb90da5",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "greetings",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Hi !",
+            "Hello !",
+            "Good day !",
+            "Greetings !",
+            "Hi! I\u0027m Aisha.I\u0027m here to help you 😀"
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ]
+}

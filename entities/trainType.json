@@ -1,0 +1,119 @@
+{
+  "id": "f87d64f0-fed1-415c-a8ce-ac6af62f53da",
+  "name": "trainType",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "RAJDHANI",
+      "synonyms": [
+        "RAJDHANI",
+        "RAJ EXP",
+        "RAJDHANI EXPRESS",
+        "rajdhani",
+        "rajdhani express"
+      ]
+    },
+    {
+      "value": "SHATABDI",
+      "synonyms": [
+        "SHATABDI",
+        "SHATABDI EXPRESS",
+        "shatabdi",
+        "shatabdi express"
+      ]
+    },
+    {
+      "value": "DURONTO",
+      "synonyms": [
+        "DURONTO",
+        "DURONTO EXPRESS",
+        "duronto",
+        "duronto express"
+      ]
+    },
+    {
+      "value": "GARIB RATH",
+      "synonyms": [
+        "GARIB RATH",
+        "GARIB RATH EXPRESS",
+        "garib rath express",
+        "garib rath",
+        "garibrath"
+      ]
+    },
+    {
+      "value": "SAMPARK KRANTI",
+      "synonyms": [
+        "SAMPARK KRANTI",
+        "SAMPARK KRANTI EXPRESS"
+      ]
+    },
+    {
+      "value": "JAN SHATABDI",
+      "synonyms": [
+        "JAN SHATABDI",
+        "JANSHATABDI",
+        "jan shatabdi"
+      ]
+    },
+    {
+      "value": "MEMU",
+      "synonyms": [
+        "MEMU",
+        "EMU"
+      ]
+    },
+    {
+      "value": "DOUBLE DECKER",
+      "synonyms": [
+        "DOUBLE DECKER"
+      ]
+    },
+    {
+      "value": "PASSENGER",
+      "synonyms": [
+        "PASSENGER"
+      ]
+    },
+    {
+      "value": "MAIL",
+      "synonyms": [
+        "MAIL"
+      ]
+    },
+    {
+      "value": "EXPRESS",
+      "synonyms": [
+        "EXPRESS",
+        "exp",
+        "express"
+      ]
+    },
+    {
+      "value": "TOY TRAIN",
+      "synonyms": [
+        "TOY TRAIN",
+        "HILL TRAIN"
+      ]
+    },
+    {
+      "value": "SUPER FAST",
+      "synonyms": [
+        "SUPER FAST",
+        "SUPERFAST",
+        "superfast"
+      ]
+    },
+    {
+      "value": "GATIMAAN",
+      "synonyms": [
+        "GATIMAAN",
+        "GATMAN",
+        "gatiman express",
+        "gatiman"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

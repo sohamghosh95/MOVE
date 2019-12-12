@@ -1,0 +1,32 @@
+{
+  "id": "dd466cc1-bffe-47b6-95de-744368cdf781",
+  "name": "ticket-type",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "oneway",
+      "synonyms": [
+        "oneway",
+        "one way",
+        "one-way",
+        "without return"
+      ]
+    },
+    {
+      "value": "roundtrip",
+      "synonyms": [
+        "roundtrip",
+        "round trip",
+        "round"
+      ]
+    },
+    {
+      "value": "multiple",
+      "synonyms": [
+        "multiple"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

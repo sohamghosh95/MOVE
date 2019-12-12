@@ -1,0 +1,36 @@
+{
+  "userSays": [
+    {
+      "id": "1f9212cb-d4b9-4bf2-b36b-6eec42a5eca6",
+      "data": [
+        {
+          "text": "Indian Railways Helpline No"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "5f2ea6e2-26fc-4107-915e-e8034f697229",
+  "name": "Helpline NO",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "Here you go,"
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

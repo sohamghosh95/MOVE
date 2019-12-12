@@ -1,0 +1,92 @@
+{
+  "id": "f60f6de1-6ba8-4749-a80c-5f09c52ff30a",
+  "name": "class",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "1A",
+      "synonyms": [
+        "1A",
+        "First class Air-Conditioned",
+        "first class",
+        "Executive class",
+        "ac first class"
+      ]
+    },
+    {
+      "value": "2A",
+      "synonyms": [
+        "2A",
+        "AC 2-tier sleeper",
+        "ac two tier",
+        "ac 2 tier",
+        "second ac"
+      ]
+    },
+    {
+      "value": "FC",
+      "synonyms": [
+        "FC",
+        "First class"
+      ]
+    },
+    {
+      "value": "3A",
+      "synonyms": [
+        "3A",
+        "AC 3 Tie",
+        "ac 3 tier",
+        "third ac",
+        "3rd ac",
+        "3 tier ac"
+      ]
+    },
+    {
+      "value": "CC",
+      "synonyms": [
+        "CC",
+        "AC Chair Car"
+      ]
+    },
+    {
+      "value": "SL",
+      "synonyms": [
+        "SL",
+        "Sleeper"
+      ]
+    },
+    {
+      "value": "2S",
+      "synonyms": [
+        "2S",
+        "Second Sitting"
+      ]
+    },
+    {
+      "value": "class",
+      "synonyms": [
+        "class"
+      ]
+    },
+    {
+      "value": "classes",
+      "synonyms": [
+        "classes"
+      ]
+    },
+    {
+      "value": "3AC",
+      "synonyms": [
+        "3AC"
+      ]
+    },
+    {
+      "value": "coaches",
+      "synonyms": [
+        "coaches"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

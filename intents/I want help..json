@@ -1,0 +1,86 @@
+{
+  "userSays": [
+    {
+      "id": "325030ae-ccb9-493e-8805-bd9d93f8a39c",
+      "data": [
+        {
+          "text": "help me out."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cb1b034e-2f4b-4307-9fd9-5276055ac2b8",
+      "data": [
+        {
+          "text": "I want your assistance."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b1285c6c-deb2-43c8-8cd1-4f2bde48a080",
+      "data": [
+        {
+          "text": "How can you help me?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "79e3c8a3-2f74-4eef-a3c8-c61bdc5b104c",
+      "data": [
+        {
+          "text": "I want help."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "65b03ce1-cbdc-4dbd-a48d-b1cfe448153c",
+      "data": [
+        {
+          "text": "what are the things you can help me with?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9bd79998-ed22-4c30-a6ce-0848673d148d",
+      "data": [
+        {
+          "text": "What to ask?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "e9e28ba3-e217-455f-808b-fbd66574d37c",
+  "name": "I want help.",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "Here are a few things I can help you with..."
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

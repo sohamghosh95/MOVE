@@ -1,0 +1,77 @@
+{
+  "id": "8d1a3f81-a8af-4467-b8a9-6adaba13ace3",
+  "name": "flights",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "AirAsia India",
+      "synonyms": [
+        "AirAsia India"
+      ]
+    },
+    {
+      "value": "Air India",
+      "synonyms": [
+        "Air India"
+      ]
+    },
+    {
+      "value": "Fly Easy",
+      "synonyms": [
+        "Fly Easy"
+      ]
+    },
+    {
+      "value": "GoAir",
+      "synonyms": [
+        "GoAir"
+      ]
+    },
+    {
+      "value": "IndiGo",
+      "synonyms": [
+        "IndiGo"
+      ]
+    },
+    {
+      "value": "Jet Airways",
+      "synonyms": [
+        "Jet Airways",
+        "jet airways",
+        "jet"
+      ]
+    },
+    {
+      "value": "SpiceJet",
+      "synonyms": [
+        "SpiceJet"
+      ]
+    },
+    {
+      "value": "TajAir",
+      "synonyms": [
+        "TajAir"
+      ]
+    },
+    {
+      "value": "TruJet",
+      "synonyms": [
+        "TruJet"
+      ]
+    },
+    {
+      "value": "Vistara",
+      "synonyms": [
+        "Vistara"
+      ]
+    },
+    {
+      "value": "Indogo",
+      "synonyms": [
+        "Indogo"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

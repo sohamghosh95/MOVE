@@ -1,0 +1,523 @@
+{
+  "userSays": [
+    {
+      "id": "5e5802d7-d963-4ce6-a026-edec40d22cef",
+      "data": [
+        {
+          "text": "check the current status of train no "
+        },
+        {
+          "text": "12394",
+          "alias": "trainNo",
+          "meta": "@trainNo",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "eef0b2e6-0ade-4ea4-9a67-14595c73ae26",
+      "data": [
+        {
+          "text": "train status "
+        },
+        {
+          "text": "12394",
+          "alias": "trainNo",
+          "meta": "@trainNo",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8835a554-6f3c-415b-bfbe-0fc2d888e512",
+      "data": [
+        {
+          "text": "Can you please help me with train "
+        },
+        {
+          "text": "status",
+          "alias": "live_train_status",
+          "meta": "@live_train_status",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3bf1de24-5b88-47c6-baca-9111ac86f1e7",
+      "data": [
+        {
+          "text": "Live Train status",
+          "alias": "live_train_status",
+          "meta": "@live_train_status",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "02d54f15-41cc-4601-97fa-14256f30024b",
+      "data": [
+        {
+          "text": "pos",
+          "alias": "live_train_status",
+          "meta": "@live_train_status",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "12303",
+          "alias": "trainNo",
+          "meta": "@trainNo",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c609717f-6da6-4b8e-a26d-21fe22f146d4",
+      "data": [
+        {
+          "text": "12343",
+          "alias": "trainNo",
+          "meta": "@trainNo",
+          "userDefined": true
+        },
+        {
+          "text": " pos"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "68309d46-625c-449e-bb59-e9c1696cfac0",
+      "data": [
+        {
+          "text": "live running "
+        },
+        {
+          "text": "status",
+          "alias": "live_train_status",
+          "meta": "@live_train_status",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a8de6d1d-fd10-432e-9624-3326e2e0c8f8",
+      "data": [
+        {
+          "text": "running "
+        },
+        {
+          "text": "status",
+          "alias": "live_train_status",
+          "meta": "@live_train_status",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "14723",
+          "alias": "trainNo",
+          "meta": "@trainNo",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "163ea936-8db5-4ee0-b7aa-08dc677c4d1d",
+      "data": [
+        {
+          "text": "live status",
+          "alias": "live_train_status",
+          "meta": "@live_train_status",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "12233",
+          "alias": "trainNo",
+          "meta": "@trainNo",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a7606d17-45b7-4dae-a0d3-91bed12b3895",
+      "data": [
+        {
+          "text": "position",
+          "alias": "live_train_status",
+          "meta": "@live_train_status",
+          "userDefined": true
+        },
+        {
+          "text": " of "
+        },
+        {
+          "text": "12925",
+          "alias": "trainNo",
+          "meta": "@trainNo",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3f20b963-c635-4ae6-a85a-ecee04939e82",
+      "data": [
+        {
+          "text": "12310",
+          "alias": "trainNo",
+          "meta": "@trainNo",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "27759828-3b7a-4fb5-b0ae-648756f141a2",
+      "data": [
+        {
+          "text": "show me the current position of train "
+        },
+        {
+          "text": "12393",
+          "alias": "trainNo",
+          "meta": "@trainNo",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ca24cc00-58ee-4cb3-a3b1-99c017ebd6dc",
+      "data": [
+        {
+          "text": "give me the live train status of "
+        },
+        {
+          "text": "12394",
+          "alias": "trainNo",
+          "meta": "@trainNo",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5cf62d89-8ab5-4360-8433-c9d156fdec4b",
+      "data": [
+        {
+          "text": "current "
+        },
+        {
+          "text": "pos",
+          "alias": "live_train_status",
+          "meta": "@live_train_status",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "12310",
+          "alias": "trainNo",
+          "meta": "@trainNo",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "291372ae-b286-47a7-8a47-19bf866c2539",
+      "data": [
+        {
+          "text": "get live train "
+        },
+        {
+          "text": "status",
+          "alias": "live_train_status",
+          "meta": "@live_train_status",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e75c5ad5-b2ac-4831-97b0-61f47c919f45",
+      "data": [
+        {
+          "text": "Train no "
+        },
+        {
+          "text": "12011",
+          "alias": "trainNo",
+          "meta": "@trainNo",
+          "userDefined": true
+        },
+        {
+          "text": "."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "da3dd283-0676-437c-bbc5-572ae02707be",
+      "data": [
+        {
+          "text": "Status",
+          "alias": "live_train_status",
+          "meta": "@live_train_status",
+          "userDefined": true
+        },
+        {
+          "text": " of train no "
+        },
+        {
+          "text": "12029",
+          "alias": "trainNo",
+          "meta": "@trainNo",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "77fe4ef3-ba39-4afa-a784-dfca23b80361",
+      "data": [
+        {
+          "text": "spot",
+          "alias": "live_train_status",
+          "meta": "@live_train_status",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "12394",
+          "alias": "trainNo",
+          "meta": "@trainNo",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8f208e7b-e807-4f98-bd16-38714cbe4231",
+      "data": [
+        {
+          "text": "status",
+          "alias": "live_train_status",
+          "meta": "@live_train_status",
+          "userDefined": true
+        },
+        {
+          "text": " of train "
+        },
+        {
+          "text": "12029",
+          "alias": "trainNo",
+          "meta": "@trainNo",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "45b4a462-6ffb-48f9-9091-bdbba07d1950",
+      "data": [
+        {
+          "text": "Where is "
+        },
+        {
+          "text": "12011",
+          "alias": "trainNo",
+          "meta": "@trainNo",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6cd2b61d-4ba0-48e3-a2c0-16b33fe7b19b",
+      "data": [
+        {
+          "text": "show me the live running status of train no "
+        },
+        {
+          "text": "12393",
+          "alias": "trainNo",
+          "meta": "@trainNo",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fba7a7db-9209-405a-b3c3-0dadaf4dda78",
+      "data": [
+        {
+          "text": "check the "
+        },
+        {
+          "text": "current position",
+          "alias": "live_train_status",
+          "meta": "@live_train_status",
+          "userDefined": true
+        },
+        {
+          "text": " of "
+        },
+        {
+          "text": "12029",
+          "alias": "trainNo",
+          "meta": "@trainNo",
+          "userDefined": true
+        },
+        {
+          "text": "."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "37c9bfe5-b50f-43ab-9925-8c409bd75585",
+      "data": [
+        {
+          "text": "hey, what\u0027s the "
+        },
+        {
+          "text": "current status",
+          "alias": "live_train_status",
+          "meta": "@live_train_status",
+          "userDefined": true
+        },
+        {
+          "text": " of "
+        },
+        {
+          "text": "12304",
+          "alias": "trainNo",
+          "meta": "@trainNo",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "299207d4-4180-456e-8325-1993ffdc27e0",
+      "data": [
+        {
+          "text": "show me the "
+        },
+        {
+          "text": "status",
+          "alias": "live_train_status",
+          "meta": "@live_train_status",
+          "userDefined": true
+        },
+        {
+          "text": " of "
+        },
+        {
+          "text": "12303",
+          "alias": "trainNo",
+          "meta": "@trainNo",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "a9cea6ff-f43c-4cde-88e7-001efb7f2a26",
+  "name": "$$ Live Train Status \u003d\u003e Train No",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "getTrainStatus",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "required": true,
+          "dataType": "@trainNo",
+          "name": "trainNo",
+          "value": "$trainNo",
+          "prompts": [
+            "What\u0027s the Train No ?"
+          ]
+        },
+        {
+          "dataType": "@live_train_status",
+          "name": "live_train_status",
+          "value": "$live_train_status",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "It seems..",
+            "Let me check on that."
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

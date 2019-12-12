@@ -1,0 +1,186 @@
+{
+  "userSays": [
+    {
+      "id": "de92ad09-5799-4a2c-bd4a-fed7bfd32e85",
+      "data": [
+        {
+          "text": "spot",
+          "alias": "live_train_status",
+          "meta": "@live_train_status",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "sdsh raj exp",
+          "alias": "train_name",
+          "meta": "@train_name",
+          "userDefined": true
+        },
+        {
+          "text": "."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8014eaad-8ebb-48d2-8db4-fcb81abb666f",
+      "data": [
+        {
+          "text": "what\u0027s the current status of "
+        },
+        {
+          "text": "kalka shtbdi",
+          "alias": "train_name",
+          "meta": "@train_name",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5d76269b-77e3-45a1-9bfb-07cd3529c4f6",
+      "data": [
+        {
+          "text": "check the "
+        },
+        {
+          "text": "current position",
+          "alias": "live_train_status",
+          "meta": "@live_train_status",
+          "userDefined": true
+        },
+        {
+          "text": " of "
+        },
+        {
+          "text": "kalka shatabdi",
+          "alias": "train_name",
+          "meta": "@train_name",
+          "userDefined": true
+        },
+        {
+          "text": " ?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bd3da5f6-503f-4ee8-8bec-307612e83953",
+      "data": [
+        {
+          "text": "where is "
+        },
+        {
+          "text": "poorva exp",
+          "alias": "train_name",
+          "meta": "@train_name",
+          "userDefined": true
+        },
+        {
+          "text": " ?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "14ce81ac-3f26-449c-b919-21ab0fb55f3b",
+      "data": [
+        {
+          "text": "status",
+          "alias": "live_train_status",
+          "meta": "@live_train_status",
+          "userDefined": true
+        },
+        {
+          "text": " of "
+        },
+        {
+          "text": "swarna shatabdi",
+          "alias": "train_name",
+          "meta": "@train_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a1b838a6-df37-45cb-8001-f0ccc16e9d40",
+      "data": [
+        {
+          "text": "hey what\u0027s the "
+        },
+        {
+          "text": "status",
+          "alias": "live_train_status",
+          "meta": "@live_train_status",
+          "userDefined": true
+        },
+        {
+          "text": " of "
+        },
+        {
+          "text": "sampoorn k exp",
+          "alias": "train_name",
+          "meta": "@train_name",
+          "userDefined": true
+        },
+        {
+          "text": " ?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "e3a824f3-e97a-49a9-89f1-82adcedc5240",
+  "name": "$$ Live Train Status \u003d\u003e Train Name",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "getTrainStatus",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "dataType": "@live_train_status",
+          "name": "live_train_status",
+          "value": "$live_train_status",
+          "isList": false
+        },
+        {
+          "required": true,
+          "dataType": "@train_name",
+          "name": "train_name",
+          "value": "$train_name",
+          "prompts": [
+            "Hey, I have problem understanding the train name :/ \\n Try again.",
+            "I did\u0027nt get the name of the train.\\n Try using the Train No instead :)"
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "It seems.."
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

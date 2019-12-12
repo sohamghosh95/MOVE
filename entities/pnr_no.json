@@ -1,0 +1,63 @@
+{
+  "id": "d8bf798a-8df1-402d-bf87-22472dfd4947",
+  "name": "pnr_no",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "2708954407",
+      "synonyms": [
+        "2708954407"
+      ]
+    },
+    {
+      "value": "2535687624",
+      "synonyms": [
+        "2535687624"
+      ]
+    },
+    {
+      "value": "4436240262",
+      "synonyms": [
+        "4436240262"
+      ]
+    },
+    {
+      "value": "2708954401",
+      "synonyms": [
+        "2708954401"
+      ]
+    },
+    {
+      "value": "2708954403",
+      "synonyms": [
+        "2708954403"
+      ]
+    },
+    {
+      "value": "2708954402",
+      "synonyms": [
+        "2708954402"
+      ]
+    },
+    {
+      "value": "2708954405",
+      "synonyms": [
+        "2708954405"
+      ]
+    },
+    {
+      "value": "2708954102",
+      "synonyms": [
+        "2708954102"
+      ]
+    },
+    {
+      "value": "2708954108",
+      "synonyms": [
+        "2708954108"
+      ]
+    }
+  ],
+  "isEnum": true,
+  "automatedExpansion": false
+}

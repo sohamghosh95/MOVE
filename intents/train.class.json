@@ -1,0 +1,359 @@
+{
+  "userSays": [
+    {
+      "id": "d4e56250-eac1-4f8d-8b52-1e26a2fd458c",
+      "data": [
+        {
+          "text": "types of "
+        },
+        {
+          "text": "classes",
+          "alias": "class",
+          "meta": "@class",
+          "userDefined": true
+        },
+        {
+          "text": " are available?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ef64b7a5-f383-4233-bc2d-e54565110510",
+      "data": [
+        {
+          "text": "what "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " types of "
+        },
+        {
+          "text": "coaches",
+          "alias": "class",
+          "meta": "@class",
+          "userDefined": true
+        },
+        {
+          "text": " available?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e55635cc-7fc1-4a89-87b3-d38205b926a9",
+      "data": [
+        {
+          "text": "what types of "
+        },
+        {
+          "text": "classes",
+          "alias": "class",
+          "meta": "@class",
+          "userDefined": true
+        },
+        {
+          "text": " are available?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "27535873-9b4e-4226-860b-f2ac2c2872a5",
+      "data": [
+        {
+          "text": "does it have a "
+        },
+        {
+          "text": "first class ac",
+          "alias": "class",
+          "meta": "@class",
+          "userDefined": true
+        },
+        {
+          "text": " coach?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6ef3fb80-5ae7-4959-8f4c-75f154239def",
+      "data": [
+        {
+          "text": "Is there any "
+        },
+        {
+          "text": "3AC",
+          "alias": "class",
+          "meta": "@class",
+          "userDefined": true
+        },
+        {
+          "text": " in it?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5f3dad68-e396-43d9-8ac2-e58a4453ba5b",
+      "data": [
+        {
+          "text": "what is the type of "
+        },
+        {
+          "text": "classes",
+          "alias": "class",
+          "meta": "@class",
+          "userDefined": true
+        },
+        {
+          "text": " available?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "51dfd642-7d9e-4912-adaa-203e511c8ee6",
+      "data": [
+        {
+          "text": "what are the available "
+        },
+        {
+          "text": "classes",
+          "alias": "class",
+          "meta": "@class",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c765df6b-facb-4650-89f5-9a51f456c85c",
+      "data": [
+        {
+          "text": "train "
+        },
+        {
+          "text": "class",
+          "alias": "class",
+          "meta": "@class",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "af6658ec-a339-4820-8257-45f45eca31e3",
+      "data": [
+        {
+          "text": "different type of boogies for "
+        },
+        {
+          "text": "12011",
+          "alias": "trainNo",
+          "meta": "@trainNo",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c140e19b-3415-4a20-9dc5-cc76ad358c23",
+      "data": [
+        {
+          "text": "available "
+        },
+        {
+          "text": "classes",
+          "alias": "class",
+          "meta": "@class",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "12393",
+          "alias": "trainNo",
+          "meta": "@trainNo",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "03e90918-0a80-43b7-b5e2-16522c09f14b",
+      "data": [
+        {
+          "text": "does the train have "
+        },
+        {
+          "text": "sleeper class",
+          "alias": "class",
+          "meta": "@class",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0f45aaf8-adbd-448f-bfa5-336cc63ba2cd",
+      "data": [
+        {
+          "text": "available "
+        },
+        {
+          "text": "classes",
+          "alias": "class",
+          "meta": "@class",
+          "userDefined": true
+        },
+        {
+          "text": " for the train ?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f453df1d-309c-4fe0-8584-d82dc674ab99",
+      "data": [
+        {
+          "text": "what is the type of "
+        },
+        {
+          "text": "coaches",
+          "alias": "class",
+          "meta": "@class",
+          "userDefined": true
+        },
+        {
+          "text": " available in 12393?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4dbc1e54-9e40-44cf-8dae-a831de098e23",
+      "data": [
+        {
+          "text": "Does this trian hava "
+        },
+        {
+          "text": "ac first class",
+          "alias": "class",
+          "meta": "@class",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9aabfd3c-5412-4d53-902d-d747fc1cf7b4",
+      "data": [
+        {
+          "text": "what are the "
+        },
+        {
+          "text": "classes",
+          "alias": "class",
+          "meta": "@class",
+          "userDefined": true
+        },
+        {
+          "text": " available for "
+        },
+        {
+          "text": "12303",
+          "alias": "trainNo",
+          "meta": "@trainNo",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "2479388c-df85-45a8-b10d-1cbec5bc7336",
+  "name": "$$ Train Classes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "getTrainClasses",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "dataType": "@class",
+          "name": "class",
+          "value": "$class"
+        },
+        {
+          "required": true,
+          "dataType": "@trainNo",
+          "name": "trainNo",
+          "value": "$trainNo",
+          "prompts": [
+            "Train No ??😅"
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "Just a sec 😉"
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

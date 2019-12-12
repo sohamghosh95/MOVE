@@ -1,0 +1,32 @@
+{
+  "id": "1de651e7-ca03-4626-958a-c83d9c31561d",
+  "name": "topic",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "irctc",
+      "synonyms": [
+        "irctc",
+        "Indian Railway Catering and Tourism Corporation"
+      ]
+    },
+    {
+      "value": "indian railways",
+      "synonyms": [
+        "Indian railways",
+        "IR",
+        "railways of india",
+        "indain rail"
+      ]
+    },
+    {
+      "value": "rajdhani",
+      "synonyms": [
+        "rajdhani",
+        "rajdhani express"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

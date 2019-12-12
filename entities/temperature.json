@@ -1,0 +1,40 @@
+{
+  "id": "0c98466b-1e9b-4ed1-991b-306699e23173",
+  "name": "temperature",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "hot",
+      "synonyms": [
+        "hot",
+        "high",
+        "extremely hot"
+      ]
+    },
+    {
+      "value": "cold",
+      "synonyms": [
+        "cold",
+        "low",
+        "extremely cold",
+        "freezing",
+        "freezing cold"
+      ]
+    },
+    {
+      "value": "warm",
+      "synonyms": [
+        "warm",
+        "mild"
+      ]
+    },
+    {
+      "value": "chilly",
+      "synonyms": [
+        "chilly"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

@@ -1,0 +1,421 @@
+{
+  "userSays": [
+    {
+      "id": "873b6ba3-ebbd-4784-a579-c756a32cce35",
+      "data": [
+        {
+          "text": "show me the train route for "
+        },
+        {
+          "text": "12424",
+          "alias": "trainNo",
+          "meta": "@trainNo",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fbc69e71-23c0-4149-8c1a-0d3f77981764",
+      "data": [
+        {
+          "text": "Get Train Route"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3ca27685-e8fd-44ac-8c11-334bf37905b5",
+      "data": [
+        {
+          "text": "12393",
+          "alias": "trainNo",
+          "meta": "@trainNo",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "route",
+          "alias": "trainRoute",
+          "meta": "@trainRoute",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "22ad4ab3-30d5-4cf5-913a-884e8d88faf9",
+      "data": [
+        {
+          "text": "what is the "
+        },
+        {
+          "text": "route",
+          "alias": "trainRoute",
+          "meta": "@trainRoute",
+          "userDefined": true
+        },
+        {
+          "text": " on which it runs?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d788bd43-7e6e-44c9-a9d0-8fce1ec40d0b",
+      "data": [
+        {
+          "text": "show me the list of stations covered."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c606380d-50ae-4565-8a3c-0d38186fcbcb",
+      "data": [
+        {
+          "text": "what\u0027s the "
+        },
+        {
+          "text": "route",
+          "alias": "trainRoute",
+          "meta": "@trainRoute",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "24648269-03b4-46e8-b8e9-8e6b3d86bb70",
+      "data": [
+        {
+          "text": "what is it\u0027s train "
+        },
+        {
+          "text": "route",
+          "alias": "trainRoute",
+          "meta": "@trainRoute",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "eac24182-0546-430b-9d1e-f04bbd3d557d",
+      "data": [
+        {
+          "text": "tell me about its "
+        },
+        {
+          "text": "route",
+          "alias": "trainRoute",
+          "meta": "@trainRoute",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "478d0cc9-b379-40ef-acc9-37d559a5e591",
+      "data": [
+        {
+          "text": "what is the "
+        },
+        {
+          "text": "route",
+          "alias": "trainRoute",
+          "meta": "@trainRoute",
+          "userDefined": true
+        },
+        {
+          "text": " of the train?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0dbf05e4-f67e-49e7-969d-b8b550bb5a94",
+      "data": [
+        {
+          "text": "train "
+        },
+        {
+          "text": "route",
+          "alias": "trainRoute",
+          "meta": "@trainRoute",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c563f82d-4829-4c23-a3fe-2e3e8e835762",
+      "data": [
+        {
+          "text": "time table",
+          "alias": "trainRoute",
+          "meta": "@trainRoute",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "12394",
+          "alias": "trainNo",
+          "meta": "@trainNo",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c0d60c23-dbe3-4dfa-96ee-517f79beb955",
+      "data": [
+        {
+          "text": "route",
+          "alias": "trainRoute",
+          "meta": "@trainRoute",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "12393",
+          "alias": "trainNo",
+          "meta": "@trainNo",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "afa7cae2-65b1-4f7b-92f5-ee085fa688da",
+      "data": [
+        {
+          "text": "what\u0027s the "
+        },
+        {
+          "text": "route",
+          "alias": "trainRoute",
+          "meta": "@trainRoute",
+          "userDefined": true
+        },
+        {
+          "text": " for this train"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a30c29e5-565d-4c9b-bb8e-8be8cd80824f",
+      "data": [
+        {
+          "text": "show me the "
+        },
+        {
+          "text": "route",
+          "alias": "trainRoute",
+          "meta": "@trainRoute",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "db28d650-3f31-44e5-9c62-ac02045947e4",
+      "data": [
+        {
+          "text": "what\u0027s the "
+        },
+        {
+          "text": "route",
+          "alias": "trainRoute",
+          "meta": "@trainRoute",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6bf5fdcd-1bdc-4b0a-b941-ba1dac220c61",
+      "data": [
+        {
+          "text": "what is it\u0027s "
+        },
+        {
+          "text": "route",
+          "alias": "trainRoute",
+          "meta": "@trainRoute",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8e22e808-52b3-42f6-acc2-0587a153007f",
+      "data": [
+        {
+          "text": "get "
+        },
+        {
+          "text": "route",
+          "alias": "trainRoute",
+          "meta": "@trainRoute",
+          "userDefined": true
+        },
+        {
+          "text": " for train no "
+        },
+        {
+          "text": "12310",
+          "alias": "trainNo",
+          "meta": "@trainNo",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1e092d40-6134-485e-b656-b24696021a5c",
+      "data": [
+        {
+          "text": "find the "
+        },
+        {
+          "text": "train route",
+          "alias": "trainRoute",
+          "meta": "@trainRoute",
+          "userDefined": true
+        },
+        {
+          "text": " of "
+        },
+        {
+          "text": "12303",
+          "alias": "trainNo",
+          "meta": "@trainNo",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0eef15d8-bff7-4fb2-81c6-c0b80a69e252",
+      "data": [
+        {
+          "text": "show the "
+        },
+        {
+          "text": "route",
+          "alias": "trainRoute",
+          "meta": "@trainRoute",
+          "userDefined": true
+        },
+        {
+          "text": " for train no "
+        },
+        {
+          "text": "12011",
+          "alias": "trainNo",
+          "meta": "@trainNo",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fbbd8ee8-2aaa-4c2f-96dc-8d8cd5ec601d",
+      "data": [
+        {
+          "text": "get "
+        },
+        {
+          "text": "train route",
+          "alias": "trainRoute",
+          "meta": "@trainRoute",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "12393",
+          "alias": "trainNo",
+          "meta": "@trainNo",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "b9dfa242-9966-4f6a-9397-7980a213fefa",
+  "name": "$$ Train Route",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "getTrainRoute",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "required": true,
+          "dataType": "@trainNo",
+          "name": "trainNo",
+          "value": "$trainNo",
+          "prompts": [
+            "I think I\u0027m missing the Train No 😅",
+            "What\u0027s the Train No ? 😅"
+          ]
+        },
+        {
+          "dataType": "@trainRoute",
+          "name": "trainRoute",
+          "value": "$trainRoute",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "Here\u0027s the Train Route."
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

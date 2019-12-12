@@ -1,0 +1,36 @@
+{
+  "userSays": [
+    {
+      "id": "64890774-96a5-4157-9f69-9610f1c146fc",
+      "data": [
+        {
+          "text": "Get Started"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "7bf470ff-0a8f-45d1-a971-cbf1b30cf7f4",
+  "name": "**Get Started",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "Hi I\u0027m Aisha, your personal travel assistant."
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

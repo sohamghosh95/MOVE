@@ -1,0 +1,192 @@
+{
+  "userSays": [
+    {
+      "id": "8924d0c4-110b-4c9e-888e-bb788d4c7cf7",
+      "data": [
+        {
+          "text": "train at a station"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "528c4ae7-6fcc-48a2-b652-53a4e36f5257",
+      "data": [
+        {
+          "text": "trains at a station"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "adea39d2-2600-4046-b16a-4157687ac8f4",
+      "data": [
+        {
+          "text": "trains at station "
+        },
+        {
+          "text": "SDAH",
+          "alias": "railway_station",
+          "meta": "@railway_station",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0a92d8de-6ee6-4fcd-9e30-944b5170ab0f",
+      "data": [
+        {
+          "text": "trains within next "
+        },
+        {
+          "text": "1",
+          "alias": "hours_for_arrival",
+          "meta": "@hours_for_arrival",
+          "userDefined": true
+        },
+        {
+          "text": " hour."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e97f73c8-e585-4a44-a9f4-8c6bba1fc551",
+      "data": [
+        {
+          "text": "find incoming trains in "
+        },
+        {
+          "text": "HWH",
+          "alias": "railway_station",
+          "meta": "@railway_station",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "60d6c7ce-a9a2-4f13-9e29-cf5c1f223e26",
+      "data": [
+        {
+          "text": "status of station within the next"
+        },
+        {
+          "text": " 2",
+          "alias": "hours_for_arrival",
+          "meta": "@hours_for_arrival",
+          "userDefined": true
+        },
+        {
+          "text": " hours"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "851f0cb4-93b1-4f1e-8b1f-90a906c93e18",
+      "data": [
+        {
+          "text": "find trains within "
+        },
+        {
+          "text": "3",
+          "alias": "hours_for_arrival",
+          "meta": "@hours_for_arrival",
+          "userDefined": true
+        },
+        {
+          "text": "hrs for "
+        },
+        {
+          "text": "NDLS",
+          "alias": "railway_station",
+          "meta": "@railway_station",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "97bcfab9-6c59-4583-8680-da94ba954a9b",
+      "data": [
+        {
+          "text": "get live station info of "
+        },
+        {
+          "text": "PNBE",
+          "alias": "railway_station",
+          "meta": "@railway_station",
+          "userDefined": true
+        },
+        {
+          "text": " within "
+        },
+        {
+          "text": "2",
+          "alias": "hours_for_arrival",
+          "meta": "@hours_for_arrival",
+          "userDefined": true
+        },
+        {
+          "text": " hrs."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "3a570eec-3f0e-42a6-85b6-0025c63b00de",
+  "name": "$$ Trains At A Station",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "getTrainArrivalAtStation",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "required": true,
+          "dataType": "@railway_station",
+          "name": "railway_station",
+          "value": "$railway_station",
+          "prompts": [
+            "Which station are you refering to? 😅",
+            "Which station would you like me to search?😊",
+            "Hey, What\u0027s the station ?",
+            "Railway Station? 😅"
+          ]
+        },
+        {
+          "required": true,
+          "dataType": "@hours_for_arrival",
+          "name": "hours_for_arrival",
+          "value": "$hours_for_arrival",
+          "prompts": [
+            "You are looking for trains within how many hours?? 😅"
+          ]
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "Checking my sources 😶"
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,125 @@
+{
+  "id": "05c0bb87-dac4-4cf4-90e2-4ef2997b9889",
+  "name": "flight_source",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "DEL",
+      "synonyms": [
+        "DEL",
+        "delhi",
+        "new delhi"
+      ]
+    },
+    {
+      "value": "BOM",
+      "synonyms": [
+        "BOM",
+        "bombay",
+        "mumbai"
+      ]
+    },
+    {
+      "value": "CCU",
+      "synonyms": [
+        "CCU",
+        "calcutta",
+        "kolkata"
+      ]
+    },
+    {
+      "value": "IXC",
+      "synonyms": [
+        "chandigarh",
+        "IXC"
+      ]
+    },
+    {
+      "value": "Bangalore",
+      "synonyms": [
+        "Bangalore"
+      ]
+    },
+    {
+      "value": "MAA",
+      "synonyms": [
+        "MAA",
+        "chennai"
+      ]
+    },
+    {
+      "value": "IGI",
+      "synonyms": [
+        "IGI"
+      ]
+    },
+    {
+      "value": "DLI",
+      "synonyms": [
+        "DLI"
+      ]
+    },
+    {
+      "value": "Seoul",
+      "synonyms": [
+        "Seoul"
+      ]
+    },
+    {
+      "value": "Boston",
+      "synonyms": [
+        "Boston"
+      ]
+    },
+    {
+      "value": "NY",
+      "synonyms": [
+        "NY"
+      ]
+    },
+    {
+      "value": "Madrid",
+      "synonyms": [
+        "Madrid"
+      ]
+    },
+    {
+      "value": "LA",
+      "synonyms": [
+        "LA"
+      ]
+    },
+    {
+      "value": "Moscow",
+      "synonyms": [
+        "Moscow"
+      ]
+    },
+    {
+      "value": "New York",
+      "synonyms": [
+        "New York"
+      ]
+    },
+    {
+      "value": "Paris",
+      "synonyms": [
+        "Paris"
+      ]
+    },
+    {
+      "value": "Chicago",
+      "synonyms": [
+        "Chicago"
+      ]
+    },
+    {
+      "value": "Atlanta",
+      "synonyms": [
+        "Atlanta"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

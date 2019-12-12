@@ -1,0 +1,53 @@
+{
+  "id": "3cab9e38-165e-4b05-8f00-0aa5313ddb76",
+  "name": "train_name",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "poorva express",
+      "synonyms": [
+        "poorva express",
+        "poorva",
+        "poorva exp"
+      ]
+    },
+    {
+      "value": "SWARNA SHTBDI",
+      "synonyms": [
+        "swarna shatabdi",
+        "swarna shtbdi",
+        "swarna shatabdi express",
+        "swarn shatbdi exp"
+      ]
+    },
+    {
+      "value": "SAMPOORN K EXP",
+      "synonyms": [
+        "SAMPOORN K EXP",
+        "sampoorn kranti express",
+        "sampoorn kranti"
+      ]
+    },
+    {
+      "value": "KALKA SHTBDI",
+      "synonyms": [
+        "kalka shtbdi",
+        "kalka shatabdi",
+        "kalka shatabdi express",
+        "kalka statabdi exp"
+      ]
+    },
+    {
+      "value": "SDAH RAJDHANIEX",
+      "synonyms": [
+        "SDAH RAJDHANIEX",
+        "sealdah rajdhani",
+        "sealdah rajdhani",
+        "sealdah rajdhani express",
+        "sdsh raj exp"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

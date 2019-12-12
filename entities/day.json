@@ -1,0 +1,210 @@
+{
+  "id": "b4b17f3c-15d8-4bb6-83ca-1b140bc2f527",
+  "name": "day",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "01",
+      "synonyms": [
+        "01",
+        "1"
+      ]
+    },
+    {
+      "value": "02",
+      "synonyms": [
+        "02",
+        "2"
+      ]
+    },
+    {
+      "value": "03",
+      "synonyms": [
+        "03",
+        "3"
+      ]
+    },
+    {
+      "value": "04",
+      "synonyms": [
+        "04",
+        "4"
+      ]
+    },
+    {
+      "value": "05",
+      "synonyms": [
+        "05",
+        "5"
+      ]
+    },
+    {
+      "value": "06",
+      "synonyms": [
+        "06",
+        "6"
+      ]
+    },
+    {
+      "value": "07",
+      "synonyms": [
+        "07",
+        "7"
+      ]
+    },
+    {
+      "value": "08",
+      "synonyms": [
+        "08",
+        "8"
+      ]
+    },
+    {
+      "value": "09",
+      "synonyms": [
+        "09",
+        "9"
+      ]
+    },
+    {
+      "value": "10",
+      "synonyms": [
+        "10"
+      ]
+    },
+    {
+      "value": "11",
+      "synonyms": [
+        "11"
+      ]
+    },
+    {
+      "value": "12",
+      "synonyms": [
+        "12"
+      ]
+    },
+    {
+      "value": "13",
+      "synonyms": [
+        "13"
+      ]
+    },
+    {
+      "value": "14",
+      "synonyms": [
+        "14"
+      ]
+    },
+    {
+      "value": "15",
+      "synonyms": [
+        "15"
+      ]
+    },
+    {
+      "value": "16",
+      "synonyms": [
+        "16"
+      ]
+    },
+    {
+      "value": "17",
+      "synonyms": [
+        "17"
+      ]
+    },
+    {
+      "value": "18",
+      "synonyms": [
+        "18"
+      ]
+    },
+    {
+      "value": "19",
+      "synonyms": [
+        "19"
+      ]
+    },
+    {
+      "value": "20",
+      "synonyms": [
+        "20"
+      ]
+    },
+    {
+      "value": "21",
+      "synonyms": [
+        "21"
+      ]
+    },
+    {
+      "value": "22",
+      "synonyms": [
+        "22"
+      ]
+    },
+    {
+      "value": "23",
+      "synonyms": [
+        "23"
+      ]
+    },
+    {
+      "value": "24",
+      "synonyms": [
+        "24"
+      ]
+    },
+    {
+      "value": "25",
+      "synonyms": [
+        "25"
+      ]
+    },
+    {
+      "value": "26",
+      "synonyms": [
+        "26"
+      ]
+    },
+    {
+      "value": "27",
+      "synonyms": [
+        "27"
+      ]
+    },
+    {
+      "value": "28",
+      "synonyms": [
+        "28"
+      ]
+    },
+    {
+      "value": "29",
+      "synonyms": [
+        "29"
+      ]
+    },
+    {
+      "value": "30",
+      "synonyms": [
+        "30"
+      ]
+    },
+    {
+      "value": "31",
+      "synonyms": [
+        "31"
+      ]
+    },
+    {
+      "value": "5",
+      "synonyms": [
+        "5"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

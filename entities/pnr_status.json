@@ -1,0 +1,22 @@
+{
+  "id": "8859ca26-1f18-479e-a8dc-4ee520fd0c8f",
+  "name": "pnr_status",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "pnr",
+      "synonyms": [
+        "pnr",
+        "pnr status"
+      ]
+    },
+    {
+      "value": "status",
+      "synonyms": [
+        "status"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

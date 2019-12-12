@@ -1,0 +1,105 @@
+{
+  "id": "143280f3-7fd1-4fae-a9d1-aeebec14be7b",
+  "name": "month",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "01",
+      "synonyms": [
+        "01",
+        "jan",
+        "January"
+      ]
+    },
+    {
+      "value": "02",
+      "synonyms": [
+        "02",
+        "feb",
+        "february"
+      ]
+    },
+    {
+      "value": "03",
+      "synonyms": [
+        "03",
+        "march"
+      ]
+    },
+    {
+      "value": "04",
+      "synonyms": [
+        "04",
+        "april"
+      ]
+    },
+    {
+      "value": "05",
+      "synonyms": [
+        "05",
+        "may"
+      ]
+    },
+    {
+      "value": "06",
+      "synonyms": [
+        "06",
+        "june"
+      ]
+    },
+    {
+      "value": "07",
+      "synonyms": [
+        "07",
+        "july"
+      ]
+    },
+    {
+      "value": "08",
+      "synonyms": [
+        "08",
+        "august"
+      ]
+    },
+    {
+      "value": "09",
+      "synonyms": [
+        "09",
+        "sept",
+        "september"
+      ]
+    },
+    {
+      "value": "10",
+      "synonyms": [
+        "10",
+        "oct",
+        "october"
+      ]
+    },
+    {
+      "value": "11",
+      "synonyms": [
+        "11",
+        "nov",
+        "november"
+      ]
+    },
+    {
+      "value": "12",
+      "synonyms": [
+        "12",
+        "dec",
+        "december"
+      ]
+    },
+    {
+      "value": "7",
+      "synonyms": [
+        "7"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}
